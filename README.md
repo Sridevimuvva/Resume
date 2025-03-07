@@ -1,7 +1,6 @@
-# Resume
 # Hi, I'm Sri Devi Muvva 👋
 
-I'm a dedicated Software Engineer with a proven track record in implementing DevOps practices at Persistent Systems. I specialize in building and maintaining CI/CD pipelines using tools such as Jenkins, Docker, and Kubernetes. Currently, I am actively seeking opportunities in DevOps where I can leverage my technical expertise and analytical problem-solving skills to drive operational excellence.
+I'm a dedicated Software Engineer with a proven track record in implementing DevOps practices at Persistent Systems. I specialize in building and maintaining CI/CD pipelines using tools such as Jenkins, Docker, and Kubernetes. Currently, I am actively seeking DevOps opportunities and am willing to relocate for the right role.
 
 ## 🚀 About Me
 
@@ -44,3 +43,4 @@ I hold a Master of Science in Information Science and Technology (expected May 2
 - **LinkedIn:** [Sri Devi Muvva](https://www.linkedin.com/in/sri-devimuvva-128460310/)
 
 Thank you for stopping by my profile!
+
