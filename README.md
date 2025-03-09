@@ -1,46 +1,71 @@
-# Hi, I'm Sri Devi Muvva 👋
-
-I'm a dedicated Software Engineer with a proven track record in implementing DevOps practices at Persistent Systems. I specialize in building and maintaining CI/CD pipelines using tools such as Jenkins, Docker, and Kubernetes. Currently, I am actively seeking DevOps opportunities and am willing to relocate for the right role.
+# Hi there, I'm Sri Devi Muvva 👋
 
 ## 🚀 About Me
+I am a **Software Engineer** with experience in **DevOps, CI/CD, cloud infrastructure, and software development**. Passionate about **automation, problem-solving, and continuous learning**, I have worked extensively with **Jenkins, Kubernetes, and GitHub Actions** to streamline development workflows. My goal is to build scalable and secure enterprise solutions while expanding my technical expertise.
 
-I hold a Master of Science in Information Science and Technology (expected May 2025) from Missouri University of Science And Technology (GPA: 3.6/4.0) and a Bachelor of Science in Electrical and Communication Engineering from Sreyas Institute of Engineering and Technology. My experience spans client-based projects in agile environments, where I effectively applied DevOps methodologies to improve project delivery timelines and enhance operational processes.
+## 🛠 Skills & Technologies
 
-## 🛠️ Skills
+### **Programming Languages**
+- Python
+- JavaScript
+- SQL
+- Angular JS
 
-- **Programming Languages:** Python, SQL, HTML, CSS, AngularJS
-- **DevOps Tools:** Jenkins, Docker, Kubernetes
-- **Operating Systems:** Linux, Windows
-- **Technical Skills:** Linux command line proficiency, automated deployment processes, analytical problem solving
-- **Soft Skills:** Effective communication, critical thinking, teamwork, and collaboration
+### **DevOps & CI/CD**
+- Jenkins
+- Docker
+- Kubernetes
+- GitHub Actions
+- Linux Command Line Proficiency
 
-## 💼 Experience
+### **Cloud & Infrastructure**
+- AWS Cloud Services
+- Infrastructure as Code (IaC)
+- System Monitoring & Observability
 
-### Persistent Systems
-- **Software Engineer** (07/2022 - 07/2023)  
-  - Implemented continuous integration and deployment pipelines using Jenkins, Docker, and Kubernetes.
-  - Enhanced client projects by applying DevOps practices such as patching, releases, and server monitoring for IQVIA clients.
-  - Employed agile methodologies (using tools like JIRA) to track project progress and meet tight deadlines.
-  - Resolved issues and made data-driven decisions through strong analytical and critical thinking skills.
+### **Version Control & Task Management**
+- Git & GitHub
+- Agile & JIRA
+- Documentation & Process Optimization
 
-- **Intern** (02/2022 - 07/2022)  
-  - Gained practical experience with Python, Angular, HTML, CSS, and SQL.
-  - Developed foundational knowledge of machine learning algorithms and models.
-  - Completed certifications in Udemy, Snowflake, and Azure Fundamentals.
-  - Assisted in task delegation and process optimization across departments.
+## 💼 Work Experience
+
+### **Software Engineer | Persistent Systems** (07/2022 - 07/2023)
+- Managed and optimized **CI/CD pipelines using Jenkins & GitHub Actions**.
+- Implemented **DevOps automation**, improving software deployment efficiency.
+- Monitored **server integration and system health** to ensure seamless development.
+- Worked in an **Agile environment**, tracking development tasks with JIRA.
+
+### **Intern | Persistent Systems** (02/2022 - 07/2022)
+- Developed **Python & Angular-based applications** with API integration.
+- Gained hands-on experience with **machine learning models & database optimization**.
+- Completed **Azure Fundamentals & Snowflake certifications**.
 
 ## 🎓 Education
 
-- **Master of Science in Information Science and Technology**  
-  Missouri University of Science And Technology, Rolla, MO (Expected May 2025)
+### **Missouri University of Science and Technology**
+**Master of Science in Information Science and Technology** (Expected May 2025)  
+GPA: **3.6/4.0**  
 
-- **Bachelor of Science in Electrical and Communication Engineering**  
-  Sreyas Institute of Engineering And Technology
+### **Sreyas Institute of Engineering and Technology**
+**Bachelor of Science in Electrical and Communication Engineering** (June 2022)
 
-## 📫 How to Reach Me
+## 📜 Certifications
+- **Azure Fundamentals**
+- **Snowflake Certification**
+- **Udemy DevOps & Cloud Courses**
 
-- **Email:** muvvasridevi123@gmail.com
+## 📫 Connect With Me
 - **LinkedIn:** [Sri Devi Muvva](https://www.linkedin.com/in/sri-devimuvva-128460310/)
+- **GitHub:** [Sridevimuvva](https://github.com/Sridevimuvva)
+- **Email:** muvvasridevi123@gmail.com
 
-Thank you for stopping by my profile!
+## ✨ Hobbies & Interests
+- Continuous Learning 📖
+- Skill Development 🎯
+- Project Management 📊
+- Team Collaboration 🤝
+- Reading Books 📚
 
+---
+### 🚀 "Passionate about learning, automation, and solving real-world challenges with technology!"
