@@ -61,7 +61,7 @@ I am a **Software Engineer** with experience in **DevOps, CI/CD, cloud infrastru
 
 ### **Missouri University of Science and Technology**
 **Master of Science in Information Science and Technology** (Expected May 2025)  
-GPA: **3.6/4.0**  
+GPA: **3.4/4.0**  
 
 ### **Sreyas Institute of Engineering and Technology**
 **Bachelor of Science in Electrical and Communication Engineering** (June 2022)
